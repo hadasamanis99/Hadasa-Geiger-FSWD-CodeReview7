@@ -1,0 +1,181 @@
+[{
+    "Name": "John",
+    "Surname": "Doe",
+    "Image": "img/pic1.jpg",
+    "Age": 22,
+    "Gender": "Male",
+    "inRelation": false,
+    "likes": 0
+},
+{
+	"Name": "Brian",
+	"Surname":"Adams",
+	"Age":40,
+    "Gender": "Male",
+    "Image": "img/pic2.jpg",
+    "inRelation": false,  
+	"likes": 0
+},
+{
+	"Name": "Jennifer",
+	"Surname":"Smith",
+	"Age":21,
+    "Gender": "Female",
+    "Image": "img/pic3.jpg",
+    "inRelation": false, 
+	"likes": 0
+},
+{
+	"Name": "Beyonce",
+	"Surname":"Secret",
+	"Age":20,
+	"Image": "img/pic4.jpg",
+	"Gender": "Female", 
+    "inRelation": false, 
+	"likes": 0
+},
+{
+    "Name": "John",
+    "Surname": "Adams",
+    "Image": "img/pic5.jpg",
+    "Age": 42,
+    "Gender": "Male",
+    "inRelation": false,
+    "likes": 0
+},
+{
+	"Name": "Tony",
+	"Surname":"Lewis",
+	"Age":35,
+    "Gender": "Male",
+    "Image": "img/pic6.jpg",
+    "inRelation": false,  
+	"likes": 0
+},
+{
+	"Name": "Jennifer",
+	"Surname":"Garner",
+	"Age":25,
+    "Gender": "Female",
+    "Image": "img/pic7.jpg",
+    "inRelation": false, 
+	"likes": 0
+},
+{
+	"Name": "Joan",
+	"Surname":"Wong",
+	"Age":19,
+	"Image": "img/pic8.jpg",
+	"Gender": "Female", 
+    "inRelation": false, 
+	"likes": 0
+},
+{
+	"Name": "Elena",
+	"Surname":"Csoldok",
+	"Age":22,
+	"Image": "img/pic9.jpg",
+	"Gender": "Female", 
+    "inRelation": false, 
+	"likes": 0
+},
+{
+	"Name": "Freya",
+	"Surname":"Loseth",
+	"Age":43,
+	"Image": "img/pic10.jpg",
+	"Gender": "Female", 
+    "inRelation": false, 
+	"likes": 0
+},
+{
+	"Name": "Juanita",
+	"Surname":"Benavente",
+	"Age":44,
+	"Image": "img/pic11.jpg",
+	"Gender": "Female", 
+    "inRelation": false, 
+	"likes": 0
+},
+{
+	"Name": "Bettona",
+	"Surname":"Toppa-Segretta",
+	"Age":42,
+	"Image": "img/pic12.jpg",
+	"Gender": "Female", 
+    "inRelation": false, 
+	"likes": 0
+},
+{
+	"Name": "Hulda",
+	"Surname":"Wachulda",
+	"Age":45,
+	"Image": "img/pic13.jpg",
+	"Gender": "Female", 
+    "inRelation": false, 
+	"likes": 0
+},
+{
+	"Name": "Ernst",
+	"Surname":"Lustig",
+	"Age":45,
+	"Image": "img/pic14.jpg",
+	"Gender": "Male", 
+    "inRelation": false, 
+	"likes": 0
+},
+{
+	"Name": "Nofretete",
+	"Surname":"Tutanchamun",
+	"Age":4000,
+	"Image": "img/pic15.jpg",
+	"Gender": "Female", 
+    "inRelation": false, 
+	"likes": 0
+},
+{
+	"Name": "Xiao",
+	"Surname":"Li",
+	"Age":22,
+	"Image": "img/pic16.jpg",
+	"Gender": "Female", 
+    "inRelation": false, 
+	"likes": 0
+},
+{
+	"Name": "Angie",
+	"Surname":"Surprise",
+	"Age":29,
+	"Image": "img/pic17.jpg",
+	"Gender": "Female", 
+    "inRelation": false, 
+	"likes": 0
+},
+{
+	"Name": "Carla",
+	"Surname":"Caldone",
+	"Age":20,
+	"Image": "img/pic18.jpg",
+	"Gender": "Female", 
+    "inRelation": false, 
+	"likes": 0
+},
+{
+	"Name": "Angie",
+	"Surname":"Price",
+	"Age":29,
+	"Image": "img/pic19.jpg",
+	"Gender": "Female", 
+    "inRelation": false, 
+	"likes": 0
+},
+{
+	"Name": "Ernesto",
+	"Surname":"Chistoso",
+	"Age":49,
+	"Image": "img/pic20.jpg",
+	"Gender": "Male", 
+    "inRelation": false, 
+	"likes": 0
+}
+]
